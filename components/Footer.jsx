@@ -6,7 +6,7 @@ import Link from 'next/link';
 const Footer = () => {
   return (
     <div className="footer-container">
-      <p>2022 Ecommerce Store All rights reserverd</p>
+      <p>2022 TechShack All rights reserverd</p>
       <p className="icons">
         <Link href="https://facebook.com/" passHref={true}>
           <a target="_blank">
